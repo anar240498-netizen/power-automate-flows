@@ -69,7 +69,6 @@ The flows are shown as screenshots. Exported packages are not included because t
 ## Known limitations
 
 - Learning project in a test tenant: no production users, so there are no business impact figures, only test results.
-- Test sets are small.
 - No error-handling scope yet: a failed run is visible only in run history.
 
 ## Possible next steps
