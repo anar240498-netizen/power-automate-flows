@@ -20,7 +20,7 @@ Three Microsoft Power Automate cloud flows for common internal processes: sortin
 
 ### Flow 2: Requests from a form (Microsoft Forms, SharePoint, Teams)
 
-1. **Form** "Automation Request (Test)" in Microsoft Forms.
+1. **Form** "Automation Request" in Microsoft Forms.
 2. **`When a new response is submitted`** → **`Get response details`**.
 3. **`Create Request in SharePoint`**: one row per request in the list "Automation Requests" (site "Automation Lab").
 4. **`Notify Team in Teams`**: a message tells the team a new request has arrived.
