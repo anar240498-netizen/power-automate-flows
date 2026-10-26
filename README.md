@@ -1,4 +1,4 @@
-# Office Process Automation (Power Automate)
+# Process Improvements with Microsoft Power Automate
 
 Three Microsoft Power Automate cloud flows for common internal processes: sorting incoming files, taking requests from a form, and approvals that must not get stuck. I built and tested them alone in a Microsoft 365 test tenant (Business Standard trial, two test users), October 2026.
 
