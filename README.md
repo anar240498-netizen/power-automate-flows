@@ -14,6 +14,16 @@ Three Microsoft Power Automate cloud flows for common internal processes: sortin
 
 Pain points: lost requests, stuck approvals.
 
+## Process diagrams (BPMN)
+
+As-is: requests arrive by email or chat and are checked, logged and forwarded by hand; the approval has no deadline.
+
+![As-is BPMN diagram](screenshots/bpmn-as-is.svg)
+
+To-be: Forms → SharePoint → Teams, then approval with a 2-day timeout and escalation.
+
+![To-be BPMN diagram](screenshots/bpmn-to-be.svg)
+
 ## What it does
 
 ### Flow 1: Attachment sorting (Outlook, OneDrive)
