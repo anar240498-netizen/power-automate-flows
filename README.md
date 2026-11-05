@@ -6,6 +6,14 @@ Three Microsoft Power Automate cloud flows for common internal processes: sortin
 
 ![Flow 3 canvas](screenshots/03-approval-escalation.png)
 
+## Problem
+
+- Manual sorting of emails with attachments
+- Manual intake of requests
+- Approvals with no deadlines
+
+Pain points: lost requests, stuck approvals.
+
 ## What it does
 
 ### Flow 1: Attachment sorting (Outlook, OneDrive)
